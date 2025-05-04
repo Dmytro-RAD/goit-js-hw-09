@@ -10,7 +10,7 @@ ol {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  max-width: 1128px;
+  min-width: 1128px;
   margin: 0 auto;
   gap: 24px;
 }
